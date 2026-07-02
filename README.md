@@ -175,6 +175,7 @@ Talk to ACP agents from your favorite chat app.
 - [formulahendry/wechat-acp](https://github.com/formulahendry/wechat-acp) — Bridge WeChat messages to any ACP agent.
 - [kellyvv/WeiClaw](https://github.com/kellyvv/WeiClaw) — Turn WeChat into an entry point for any AI agent.
 - [JiaqiZhang-Dev/lark-acp](https://github.com/JiaqiZhang-Dev/lark-acp) — Bridge Feishu/Lark chat to any ACP agent.
+- [happysnaker/qq-ai-bot](https://github.com/happysnaker/qq-ai-bot) — Bridge QQ messages from OneBot 11 / NapCat / LLOneBot to ACP-compatible agents with persistent sessions and progress streaming.
 - [SuperKenVery/Telegram-ACP](https://github.com/SuperKenVery/Telegram-ACP) — Control any agent from Telegram.
 - [mgaitan/telegram-acp-bot](https://github.com/mgaitan/telegram-acp-bot) — Telegram bot implementing ACP.
 - [broven/acp-discord](https://github.com/broven/acp-discord) — Discord bot built on ACP.
