@@ -144,6 +144,7 @@ Standalone apps and web UIs for talking to ACP agents.
 - [AnEntrypoint/agentgui](https://github.com/AnEntrypoint/agentgui) — Multi-agent GUI for AI coding assistants.
 - [belay-codes/belay](https://github.com/belay-codes/belay) — Desktop client managing connections to AI coding harnesses.
 - [Leask/Tabminal](https://github.com/Leask/Tabminal) — Cloud-native terminal and ACP agent workspace.
+- [QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent) — Realtime full-duplex voice client for ACP agents (desktop, TUI, web), with local wake word and barge-in.
 
 ## Terminal & TUI Clients
 
