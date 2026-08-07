@@ -136,6 +136,7 @@ Standalone apps and web UIs for talking to ACP agents.
 - [formulahendry/acp-ui](https://github.com/formulahendry/acp-ui) — Modern cross-platform client for ACP.
 - [issueye/acp_desktop](https://github.com/issueye/acp_desktop) — Wails-based desktop ACP client.
 - [Piebald-AI/gemini-cli-desktop](https://github.com/Piebald-AI/gemini-cli-desktop) — Web/desktop UI for Gemini CLI / Qwen Code.
+- [compozy/compozy](https://github.com/compozy/compozy) — Agent OS that runs ACP agents as a team on loops and schedules, with shared memory and approvals
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) — Local, open-source "cowork" desktop app for ACP agents.
 - [OpenSource03/harnss](https://github.com/OpenSource03/harnss) — Desktop client/UI to harness Claude Code, Codex, and more.
 - [Mng-dev-ai/agentrove](https://github.com/Mng-dev-ai/agentrove) — Self-hosted AI coding workspace for multiple agents.
