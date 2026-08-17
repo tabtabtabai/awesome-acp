@@ -262,6 +262,7 @@ Run, route, and supervise many agents at once.
 - [raphaeltm/simple-agent-manager](https://github.com/raphaeltm/simple-agent-manager) — Run multiple coding agents on your own cloud VMs.
 - [purplefish-ai/factory-factory](https://github.com/purplefish-ai/factory-factory) — Workspace-based environment for running multiple agents.
 - [recailai/jockey](https://github.com/recailai/jockey) — Open-source multi-agent collaboration platform.
+- [Reqeique/Kronos](https://github.com/Reqeique/Kronos) — Scheduler and orchestration dashboard for running ACP agent tasks on schedules via a bridge CLI.
 - [RyanMerlin/missioncontrol](https://github.com/RyanMerlin/missioncontrol) — Kubernetes-style control plane for AI agent fleets.
 - [agentrq/agentrq](https://github.com/agentrq/agentrq) — Human-in-the-loop realtime conversational task manager.
 - [kdlbs/kandev](https://github.com/kdlbs/kandev) — AI Kanban & development environment orchestrating multiple agents.
