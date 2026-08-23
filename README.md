@@ -149,6 +149,7 @@ Standalone apps and web UIs for talking to ACP agents.
 
 - [openclaw/acpx](https://github.com/openclaw/acpx) — Headless CLI client for stateful ACP servers.
 - [Toad](https://www.batrachian.ai/) — Universal terminal UI for coding agents over ACP.
+- [openma-ai/Martty](https://github.com/openma-ai/Martty) — Extensible Rust/ratatui terminal client for DeepSeek Harness and other ACP-compatible agents.
 - [tilework-tech/nori-cli](https://github.com/tilework-tech/nori-cli) — Simple CLI for working with any ACP agent.
 - [dwalleck/cyril](https://github.com/dwalleck/cyril) — Experimental TUI for the ACP ecosystem.
 - [one710/codeye](https://github.com/one710/codeye) — Drive Cursor and any ACP agent from your terminal.
