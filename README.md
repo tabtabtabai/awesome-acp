@@ -100,6 +100,7 @@ Native editor integrations and plugins that act as ACP **clients**.
 
 - [Zed](https://zed.dev/docs/ai/external-agents) — The reference client; native support for external ACP agents.
 - [JetBrains AI Assistant](https://www.jetbrains.com/help/ai-assistant/acp.html) — Built-in ACP support across IntelliJ IDEA, PyCharm, and the IDE family.
+- [LeulAria/volt](https://github.com/LeulAria/volt) — Open-source VS Code-core editor that acts as an ACP client for Claude Code, Codex, OpenCode and generic ACP agents.
 - **Neovim**
   - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) — "AI Coding, Vim Style" — the first Neovim ACP client.
   - [carlos-algms/agentic.nvim](https://github.com/carlos-algms/agentic.nvim) — Agentic chat interface with ACP providers.
