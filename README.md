@@ -258,6 +258,7 @@ Run, route, and supervise many agents at once.
 - [sleep2agi/agent-network](https://github.com/sleep2agi/agent-network) — Multi-agent, one-command orchestration.
 - [nekocode/agent-team](https://github.com/nekocode/agent-team) — Multi-agent CLI orchestrator via ACP.
 - [beyond5959/ngent](https://github.com/beyond5959/ngent) — Wrap command-line agents that speak ACP.
+- [jiangxingfan1-coder/Open-Agent-API](https://github.com/jiangxingfan1-coder/Open-Agent-API) — Self-hosted gateway that runs ACP agents and exposes them through an OpenAI-compatible HTTP API.
 - [nick-pape/grackle](https://github.com/nick-pape/grackle) — Manage and orchestrate AI coding agents.
 - [raphaeltm/simple-agent-manager](https://github.com/raphaeltm/simple-agent-manager) — Run multiple coding agents on your own cloud VMs.
 - [purplefish-ai/factory-factory](https://github.com/purplefish-ai/factory-factory) — Workspace-based environment for running multiple agents.
